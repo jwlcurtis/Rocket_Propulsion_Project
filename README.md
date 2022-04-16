@@ -14,3 +14,6 @@ Many different outputs will be given for each design. There are both tables and 
 
 
 ![15k_cf](https://user-images.githubusercontent.com/49332395/163659330-fa6c36ee-5367-4960-84a7-c0f3de4794d6.jpg)
+
+# Usage Instructions
+Make sure all the files in the src directory are in the same folder on your local machine. Open and run src/PR08D_V2.m, changing parameter as desired. The progam will automatically print all the output tables and show all of the graphs. 
